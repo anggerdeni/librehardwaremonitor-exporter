@@ -13,7 +13,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("librehardwaremonitor-exporter")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+3de2c2b1a72b2b188aa816b12f85dbbb2b9ee596")]
 [assembly: System.Reflection.AssemblyProductAttribute("librehardwaremonitor-exporter")]
 [assembly: System.Reflection.AssemblyTitleAttribute("librehardwaremonitor-exporter")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]
