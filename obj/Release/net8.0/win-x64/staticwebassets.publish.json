@@ -1,0 +1,11 @@
+{
+  "Version": 1,
+  "Hash": "kVNeR6MoOWkG+Jc7dYGl84wrrYCB5Ft3538ymUnGbVc=",
+  "Source": "librehardwaremonitor-exporter",
+  "BasePath": "_content/librehardwaremonitor-exporter",
+  "Mode": "Default",
+  "ManifestType": "Publish",
+  "ReferencedProjectsConfiguration": [],
+  "DiscoveryPatterns": [],
+  "Assets": []
+}
